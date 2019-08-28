@@ -46,7 +46,7 @@
 - Break our data from ones and zeroes into segments (and back)
 - Source and destination in each segment
 
-### What is UDP
+### What is UDP?
 - User Datagram Protocol
 - Smaller header size of 8 bytes
 - Connectionless
@@ -78,7 +78,7 @@
   header: origin destination, content-type, content length, status code
   body: content
 - Reponses Status Codes:
-  - 2xx Okay
+  - 200 Okay
   - 404 Resource not found
   - 401 Not authorized
   - 500 Internal server error
