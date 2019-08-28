@@ -15,9 +15,13 @@
 
 ### OSI Open Systems Interconnection Model
 - Developed by ISO International Standards Org.
+
 7: Application - clients and services/server
+
 6: Presentation - operating system, encryption
+
 5: Session - establishing a connection between 2 devices
+
 * 4. Transport - splits up the communication with ports
 * 3. Network - communication between devices on a network
 * 2. Datalink - physical devices connect to the network
