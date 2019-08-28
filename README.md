@@ -22,17 +22,24 @@
 
 5: Session - establishing a connection between 2 devices
 
-* 4. Transport - splits up the communication with ports
-* 3. Network - communication between devices on a network
-* 2. Datalink - physical devices connect to the network
-* 1. Physical - hardware/devices
+4: Transport - splits up the communication with ports
+
+3: Network - communication between devices on a network
+
+2: Datalink - physical devices connect to the network
+
+1: Physical - hardware/devices
 
 ### TCP/IP Model
 - created by the people who created the internet
-4. Application - client/services/encryption/session
-3. Transport - splits up the communication with ports
-2. Internetwork - comm. between devices on a network
-1. Network Access - physical devices and how they connect to the network
+
+4: Application - client/services/encryption/session
+
+3: Transport - splits up the communication with ports
+
+2: Internetwork - comm. between devices on a network
+
+1: Network Access - physical devices and how they connect to the network
 
 ### Transport Layer Protocols
 - Establish ports for our network connection
